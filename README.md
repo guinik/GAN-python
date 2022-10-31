@@ -1,1 +1,1 @@
-" GNU-python" 
+" GAN-python" 
